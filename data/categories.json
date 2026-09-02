@@ -1,0 +1,62 @@
+[
+  {
+    "id": "jajanan",
+    "name": "Jajanan Agen",
+    "emoji": "🍪",
+    "description": "Snack-snack agen & warung"
+  },
+  {
+    "id": "indomaret",
+    "name": "Indomaret / Minimarket",
+    "emoji": "🛒",
+    "description": "Barang dari minimarket"
+  },
+  {
+    "id": "makanan",
+    "name": "Makanan",
+    "emoji": "🍱",
+    "description": "Makanan favorit"
+  },
+  {
+    "id": "toiletries",
+    "name": "Toiletries",
+    "emoji": "🧴",
+    "description": "Perawatan diri"
+  },
+  {
+    "id": "atk",
+    "name": "ATK & Sekolah",
+    "emoji": "📚",
+    "description": "Alat tulis & keperluan sekolah"
+  },
+  {
+    "id": "pakaian",
+    "name": "Pakaian",
+    "emoji": "👕",
+    "description": "Baju & fashion"
+  },
+  {
+    "id": "pondok",
+    "name": "Keperluan Pondok",
+    "emoji": "🕌",
+    "description": "Barang-barang pondok"
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "emoji": "🔌",
+    "description": "Kabel, charger & aksesori"
+  },
+  {
+    "id": "personal",
+    "name": "Personal Needs",
+    "emoji": "💊",
+    "description": "Keperluan pribadi umum"
+  },
+  {
+    "id": "other",
+    "name": "Other",
+    "emoji": "➕",
+    "description": "Item custom"
+  }
+]
